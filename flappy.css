@@ -1,0 +1,11 @@
+body{
+    text-align: center;
+    justify-content: center;
+    padding-top: 60px;
+}
+
+#board{
+    background-color: skyblue;
+    background-image: url(./img/flappybirdbg.png);
+}
+
